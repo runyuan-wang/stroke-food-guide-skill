@@ -111,7 +111,6 @@ stroke-food-guide-skill/
 MIT
 
 ---
----
 
 ## 📜 许可 · License
 
